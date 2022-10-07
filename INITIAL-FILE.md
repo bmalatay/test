@@ -10,3 +10,4 @@ El enunciado publicado en la plataforma Aula Virtual muestra lo siguiente:
 > No olvide hacer un push de su(s) commit(s) a su repositorio remoto
 > para que el profesor pueda evaluar su trabajo.
 Esto resulta un poco confuso ya que, aparentemente, los cambios realizados en el archivo ya fueron subidos correctamente.
+## Conceptos no comprendidos
