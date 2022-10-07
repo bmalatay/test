@@ -3,3 +3,5 @@
 ## Conceptos aprendidos
 
 ## Conceptos no comprendidos
+
+## Conceptos aprendidos después de investigar
