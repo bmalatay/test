@@ -12,7 +12,7 @@ El enunciado publicado en la plataforma Aula Virtual muestra lo siguiente:
 
 Esto resulta un poco confuso ya que, aparentemente, los cambios realizados en el archivo ya fueron subidos correctamente.
 
-> Actualización: el uso de `PUSH` fue aclarado luego de una breve investigación y experimentación.
-> Al reaizar los cambios directamente en navegador no es necesario hacer _push_ de los _commmits_ realizados.
-> Esto solo aplica al trabajar localmente.
-> Se puede comprobar si los cambios se realizaron verificando el sitio web del repositorio en GitHub.
+> ***Actualización: el uso de `PUSH` fue aclarado luego de una breve investigación y experimentación.***
+> ***Al reaizar los cambios directamente en navegador no es necesario hacer _push_ de los _commmits_ realizados.***
+> ***Esto solo aplica al trabajar localmente.***
+> ***Se puede comprobar si los cambios se realizaron verificando el sitio web del repositorio en GitHub.***
