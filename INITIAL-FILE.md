@@ -1,5 +1,4 @@
-# Tarea de sistemas embebidos
-# Fundamentos de Git
+# Tarea de sistemas embebidos: Fundamentos de Git
 
 ## Conceptos aprendidos
 
